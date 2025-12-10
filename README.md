@@ -47,7 +47,7 @@ ML_final_project/
 │   └── train_lung_cancer.csv
 │
 ├── Final_report/
-│   └── ML final project.pdf
+│   └── final_report.pdf
 │
 ├── NOTEBOOKS/
 │   ├── descriptive_analysis.ipynb
@@ -58,7 +58,8 @@ ML_final_project/
 │   └── README.md
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 ### Folder Descriptions
